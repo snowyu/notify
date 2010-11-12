@@ -1,7 +1,13 @@
-Windows Notifiction Manager
+Windows Global Notifiction Manager
+==================================
 
 The Global notification system for the Windows operating systems. 
 Applications can use the system to display small notifications 
 about events which the user deems important, in a consistent manner. 
 User can use the system to filter the notifications which not care.
 This allows users to fully control their notifications.
+
+
+Lang: FreePascal/Delphi
+Main:  gnotify.exe
+
